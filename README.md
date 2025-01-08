@@ -80,7 +80,6 @@ The repository is organized as follows:
 
 ## Acknowledgments
 Pathway: For real-time insights extraction.
-Gemini LLM API: For generating personalized recommendations.
+Gemini LLM API: For generating personalized recommendations. Due to limitations of the Gemini API, RAG processing will be performed on a smaller subset of the data.
 Streamlit: For building the visualization dashboard.
-
 ---

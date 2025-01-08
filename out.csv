@@ -1,0 +1,31 @@
+,user_id,total_steps,avg_calories_burned,total_active_minutes,avg_sleep_hours,mood_summary,workout_count,is_stressed,is_unhappy,heart_attack_alert,potential_burnout,weather_impact,risk_of_heart_attack,overall_fitness_score,time,diff,Recommendations
+0,687,22850,3831.47,482,0.3,Neutral,1,True,False,False,False,False,True,10385.841,1736248969550,1,"User ID: 687:  Prioritize sleep (aim for 7-9 hours).  Reduce stress.  Increase workout frequency and intensity.  Despite high step count, low sleep is a major concern.  Consult a doctor regarding sleep and stress management.
+"
+1,374,2912,2100.46,886,8.3,Stressed,1,False,False,False,False,False,False,1972.138,1736248969550,1,"User ID: 374:  Increase workout frequency; explore stress-reduction techniques (despite ""Stressed: No"" flag, mood summary indicates stress).  Maintain sleep and activity levels.
+"
+2,869,4641,2436.38,595,1.5,Tired,1,True,False,False,False,False,False,2706.3140000000003,1736248969550,1,"User ID: 869:  Prioritize sleep (aim for 7-9 hours). Reduce stress.  Increase workout frequency and intensity.  While step count is good, consider incorporating more varied activities.
+"
+3,248,431,2969.94,654,2.6,Neutral,1,True,False,False,False,False,False,1194.182,1736248969550,1,"User ID: 248:  Increase sleep to 7-9 hours nightly.  Reduce stress levels (consider stress management techniques). While steps and activity are good, focus on consistent, varied workouts (increase workout count).  Despite high calorie burn, review diet to ensure balanced nutrition.
+"
+4,177,16949,3187.79,505,8.8,Stressed,1,False,True,False,False,False,False,7836.937,1736248969550,1,"User ID: 177:  Increase workout frequency.  Address unhappiness – explore stress management techniques (therapy, mindfulness).  While sleep is good, consider activities to improve mood beyond fitness.
+"
+5,678,5632,3282.66,578,4.8,Neutral,1,True,False,False,False,False,False,3353.198,1736248969550,1,"User ID: 678: Increase daily steps and active minutes. Prioritize sleep (aim for 7-8 hours).  Since stress is reported, consider stress-reduction techniques like meditation or yoga.  While workout count is low, focus on consistency over intensity initially.
+"
+6,192,3364,3998.92,718,9.8,Stressed,1,False,False,False,False,False,False,2688.876,1736248969550,1,"User ID: 192:  Increase workout frequency; explore stress reduction techniques (despite reported ""No"" stress, mood indicates otherwise); aim for more consistent sleep (though average is good, consistency matters).
+"
+7,882,9556,3581.64,463,7.9,Happy,1,False,False,False,False,False,False,4989.492,1736248969550,1,"User ID: 882:  Increase workout frequency.  While steps and sleep are good, more workouts would boost fitness.  Maintaining a happy mood is positive; continue prioritizing activities that contribute to this.
+"
+8,633,2992,2759.26,945,8.1,Neutral,1,False,False,False,False,False,False,2213.578,1736248969550,1,"User ID: 633:  Increase workout frequency, aim for more active minutes daily.  Maintain good sleep hygiene. While current fitness score is positive, consistent effort will yield further improvement.  Consider incorporating stress-reducing activities if needed.
+"
+9,670,29800,1812.5,1032,7.0,Stressed,1,False,False,False,False,False,False,12670.15,1736248969550,1,"User ID: 670:  Increase workout frequency.  Address reported stress (despite ""Stressed: No"" contradiction). Consider improving sleep quality if consistently at 7 hours.  Further investigate mood discrepancy.
+"
+10,994,3582,1868.32,754,10.2,Tired,1,False,False,False,False,False,False,2144.0960000000005,1736248969550,1,"User ID: 994:  Increase workout frequency; explore stress-reduction techniques despite current ""No"" status; aim for more active minutes daily, even if short bursts; maintain sleep hygiene despite sufficient hours, consider activities to combat tiredness.
+"
+11,644,530,2448.33,714,7.4,Stressed,1,False,False,False,False,False,False,1089.299,1736248969550,1,"User ID: 644:  Increase workout frequency; explore stress-reduction techniques (despite reported ""No Stress"").  7.4 hours sleep is good.  High average calories burned suggests intense activity; consider balancing intensity with volume for sustainability.
+"
+12,182,22274,1951.05,909,0.6,Neutral,1,True,False,False,False,False,False,9676.715,1736248969550,1,"User ID: 182:  Increase sleep to 7-9 hours nightly.  Consider adding more workouts to reduce stress. While step count is good, focus on improving sleep quality for better overall health. Address stress through relaxation techniques or professional help if needed.
+"
+13,502,29725,2099.17,594,1.7,Stressed,1,True,False,False,False,False,False,12638.551,1736248969550,1,"User ID: 502:  Increase sleep to 7-9 hours nightly.  Explore stress management techniques (meditation, yoga). While step count is good, incorporate more varied workouts.  Consider professional help if stress persists.
+"
+14,308,16201,2238.35,474,6.0,Tired,1,False,False,True,False,False,False,7246.705000000001,1736248969550,1,"User ID: 308:  The ""Heart Attack Alert"" requires immediate medical attention.  Increase sleep to 7-9 hours nightly. While step count is good, consider incorporating more varied workouts.  Address the ""Tired"" mood; explore stress reduction techniques if needed.
+"
